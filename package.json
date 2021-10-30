@@ -1,0 +1,7 @@
+{
+  "name": "hygen-react-ts",
+  "version": "1.0.0",
+  "description": "Hygen scripts for building out React (and Typescript) feature folders, components, contexts, and hooks.",
+  "repository": "https://github.com/adamldoyle/hygen-react-ts",
+  "license": "MIT"
+}
