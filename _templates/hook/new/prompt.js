@@ -10,7 +10,6 @@ module.exports = [
     message: 'Which feature subfolder should the new component go in?',
     choices: [
       '',
-      'Test',
       // leave this line - injected features automatically inserted above this line
     ],
   },
